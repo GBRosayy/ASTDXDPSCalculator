@@ -1,5 +1,7 @@
 Input your units stats and get the DPS calculations :D (code not made by me, i am dumb in code, it was all made by chatgpt)
-https://www.virustotal.com/gui/file/d18aa2bab026084ef659a06e36850aa855fe986ebaa8f67ed8a90277b1c58322/detection (8 false positives, but if you are really concerned that this contains virus, I have uploaded the .py file for you to download and you may look through the source code and run that file instead)
+https://www.virustotal.com/gui/file/d18aa2bab026084ef659a06e36850aa855fe986ebaa8f67ed8a90277b1c58322/detection (8 false positives, but if you are really concerned that this contains virus, I have uploaded the .py file for you to download and you may look through the source code and run that file)
+
+To use the .py file instead of the exe, download Python, open a command prompt within the directory that you have downloaded it in and then run the command "python astdx_dps_calculator.py"
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
