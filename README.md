@@ -9,6 +9,8 @@ Cons:
 - Time simulations are not included in this, meaning effects over time (such as marking or again DoT) are not included within the overall DPS calculation, but they will be included as if they have all occured 
 - Commas don't work. (for example: don't type 15,000 or else you won't get your calculation)
 
+If any youtubers include this in their videos, please link to this github *(directly)* and credit me :)
+
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
